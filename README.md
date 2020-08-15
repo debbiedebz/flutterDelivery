@@ -1,6 +1,6 @@
 # flutter_ui_challenge
 
-Flutter UI Challenge Entry
+Flutter Philippines' UI Challenge Entry
 
 ## Overview
 
